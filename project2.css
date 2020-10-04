@@ -3,7 +3,7 @@
   margin:0;
   padding:0;
   box-sizing:border-box;
-}
+ }                        /* Revoming default browser setting and set values */                               
 body{
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ z-index:1;
 top:50%;
 left:50%;
 transform: translate(-50%,-50%);
-animation: a3 4s linear infinite;
+animation: a3 3s linear infinite;
 
 }
 .main span:nth-child(1){
@@ -84,7 +84,7 @@ animation: a3 4s linear infinite;
   width:100px;
 }
 }
-@keyframes a2 {
+@keyframes a2 {                  /* Corner span's anitaion of rotation has been described here through key frames*/
 0%{
   transform: rotate(0deg);
 
@@ -115,7 +115,7 @@ animation: a3 4s linear infinite;
   
   }
   20%{
-    color: rgb(14, 254, 200);
+    color: rgb(14, 254, 200);                     /* Loading markups animation of changing color is described here*/
 
   }
   40%{
