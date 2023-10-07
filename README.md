@@ -5,3 +5,5 @@ New Project :  A Portfolio website...
 
 Initiating new Project :  A Portfolio Website.
 
+Note: Please do not merge in the master branch.
+
